@@ -1,0 +1,2 @@
+# edgemontcapital
+Edgemontcapital WP site
